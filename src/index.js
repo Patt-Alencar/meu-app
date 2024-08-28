@@ -26,7 +26,7 @@ const skills = [
   {
     skill: "Java",
     level: "beginner",
-    color: "#ff3a00",
+    color: "#5e8758",
   },
 ];
 
